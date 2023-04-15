@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "v7DVSqBk2L5Qe+DVtWshEAduD0Rslp2xD5D3Bz8iW+xydTXJz63OzT/3zFbIxnzJJ8Yz2iKv69urI49sLXc7jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erhan\\Downloads\\src\\Try101LinqSamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erhan\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\erhan\\.nuget\\packages\\system.commandline.dragonfruit\\0.3.0-alpha.19317.1\\system.commandline.dragonfruit.0.3.0-alpha.19317.1.nupkg.sha512",
+    "C:\\Users\\erhan\\.nuget\\packages\\system.commandline.experimental\\0.3.0-alpha.19317.1\\system.commandline.experimental.0.3.0-alpha.19317.1.nupkg.sha512",
+    "C:\\Users\\erhan\\.nuget\\packages\\system.commandline.rendering\\0.3.0-alpha.19317.1\\system.commandline.rendering.0.3.0-alpha.19317.1.nupkg.sha512",
+    "C:\\Users\\erhan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\erhan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\erhan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\erhan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\erhan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
